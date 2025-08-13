@@ -13,6 +13,5 @@ Oii :). Eu sou a Camile e sou apaixonada por tecnologia, estou sempre explorando
 ---
 
 ### 📫 Contato  
-- [E-mail](camile.vitoriar2003@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/camivnr/)](https://www.instagram.com/camivnr/) 
